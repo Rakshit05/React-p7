@@ -16,10 +16,10 @@ Install React Practical 7 with npm
     
 ## Demo
 
-1) https://practical7.netlify.app/
+1) https://user-list-p7.netlify.app/
 
-2) https://react7-32396.web.app/
+2) https://user-list-74c94.web.app/
 
 ##Github Link
 
- https://github.com/Rakshit05/rext-p7/tree/prac7
+https://github.com/Rakshit05/React-p7
